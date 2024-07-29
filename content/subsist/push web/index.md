@@ -2,7 +2,7 @@
 title: "发布环境"
 date: 2024-07-29T15:24:30+08:00
 author: "Suika"
-draft: true
+draft: false
 description: ""
 tags: [hugo, github]
 categories: []
@@ -41,3 +41,7 @@ https://lessercat.github.io/
 创建一个新的PAGE与git关联，在Project Name那里添一个可用的喜欢的域名
 
 Framework preset选择hugo，就可以部署了，速度比Github Page快多了，后面扩展性也更好。
+
+## Reference
+https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/
+https://docs.github.com/en/pages/quickstart
