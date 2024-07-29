@@ -1,0 +1,27 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "小熊猫站起来"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo.png"
+  description = "反者道之动"
+  copyright = "© { year } <span class='inline-block'> All Rights Reserved</span>."
+#  copyright = "©2022 - { year } <span class='inline-block'> All Rights Reserved</span>."
+
+
+[author]
+  name = "Suika"
+  image = "img/bear-cat-logo.png"
+  headline = "真的猛兽，以站立的姿态走行世间"
+  bio = "真的猛兽，以站立的姿态走行世间"
+  links = [
+    { envelope = "mailto:suika@kadama.eu.org" },
+    { telegram = "https://t.me/sanaesbot" },
+    { rss = "/about" },
+    { bars = "/about" },
+  ]

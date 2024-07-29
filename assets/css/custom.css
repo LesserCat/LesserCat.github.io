@@ -1,0 +1,8 @@
+.single_hero_background {
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+    width: calc(100% + 40px);
+    z-index: -10;
+    margin-left: -20px;
+  }
