@@ -8,6 +8,7 @@ showWordCount: false
 showComments: false
 sharingLinks: false
 showZenMode: false
+showAuthor: false
 ---
 {{< lead >}}
 小熊猫也有表达欲爆表的时候，但更多的时候是自言自语

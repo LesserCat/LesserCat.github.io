@@ -48,7 +48,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background page
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
   showDateOnlyInArticle = true
@@ -93,7 +93,7 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
-  constrainItemsWidth = true
+  constrainItemsWidth = false
 
 [sitemap]
   excludedKinds = []
