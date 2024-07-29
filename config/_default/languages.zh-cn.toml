@@ -22,6 +22,6 @@ title = "小熊猫站起来"
   links = [
     { envelope = "mailto:suika@kadama.eu.org" },
     { telegram = "https://t.me/sanaesbot" },
-    { rss = "/about" },
+    { rss = "/index.xml" },
     { bars = "/about" },
   ]
