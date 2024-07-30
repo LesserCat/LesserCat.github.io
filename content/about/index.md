@@ -1,6 +1,7 @@
 ---
 type: "sample"
 showDate: false
+showDateUpdated: false
 showAuthor: true
 showEdit: false
 showPagination: false

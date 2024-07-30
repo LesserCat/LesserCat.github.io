@@ -1,6 +1,7 @@
 ---
 title: "碎碎念"
 showDate: false
+showDateUpdated: false
 showPagination: false
 showReadingTime: false
 showRelatedContent: false

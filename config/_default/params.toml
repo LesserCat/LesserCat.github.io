@@ -26,7 +26,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -48,32 +48,32 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background page
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
-  showDateOnlyInArticle = true
+  showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
   showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = false
+  showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = true
-  showAuthorsBadges = false
+  showAuthorsBadges = true
   showWordCount = true
   sharingLinks = false
   showZenMode = true
