@@ -10,6 +10,7 @@ showRelatedContent: false
 showWordCount: false
 showComments: false
 sharingLinks: false
+showTableOfContents: false
 showZenMode: false
 ---
 

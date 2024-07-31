@@ -9,16 +9,14 @@ title = "小熊猫站起来"
   rtl = false
   dateFormat = "2006-01-02"
   logo = "img/logo.png"
-  description = "反者道之动"
-  copyright = "© { year } <span class='inline-block'> All Rights Reserved</span>."
-#  copyright = "©2022 - { year } <span class='inline-block'> All Rights Reserved</span>."
-
+  description = "レッサーパンダのブログ, record computer, finance, and philosophy"
+  copyright = "© { year } <span class='inline-block'> 小熊猫要站起来 </span> All Rights Reserved</span>."
 
 [author]
   name = "Suika"
   image = "img/bear-cat-logo.png"
   headline = "真的猛兽，以站立的姿态走行世间"
-  bio = "真的猛兽，以站立的姿态走行世间"
+  bio = "反者道之动"
   links = [
     { github = "https://github.com/LesserCat/LesserCat.github.io" },
     { envelope = "mailto:suika@kadama.eu.org" },
