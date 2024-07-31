@@ -16,7 +16,10 @@ categories: []
 
 A股确实不知道有啥好用的，但美股，工具性的网站非常多，作为一个工具多的差生，在此大致整理一下入门常用的网站。  
 
-## 启明星
+## 基础信息
+这类网站可以方便的查询到股票的基础信息，做初步的了解和筛选  
+
+### 启明星
 我在写这篇的时候才搜到，它家居然有个备案了的中国网站，自称[晨星咨询](https://www.morningstar.cn)  
 居然是真网站，不是钓鱼，但我还是喜欢叫它启明星，毕竟中国那网站四舍五入等于不能用  
 
@@ -27,8 +30,8 @@ A股确实不知道有啥好用的，但美股，工具性的网站非常多，�
 
 还能查到一些市场数据，它当然还有许多板块比如ETF，但我基本不用
 
-## ETFDB
-我如果要看ETF会到[ETFDB](https://etfdb.com)，免费版基本够用  
+### VettaFi
+我如果要看ETF会到[https://etfdb.com](https://etfdb.com)，有收费版本，但免费版基本够用  
 
 ![alt text](ETFDB.png)
 
@@ -40,36 +43,8 @@ ETFDB还有对比工具，用于同类的ETF比较
 
 如果主要投美股ETF的话，这网站挺有用的
 
-## Tradingview
-如果要看详细图标时，就要用到tradingview了，这是个非常好用的看图的软件，数据和功能都非常全面
-
-[https://www.tradingview.com/](https://www.tradingview.com/)
-官网有中文，推荐用网页
-
-免费版近来功能一砍再砍，但也勉强够用，如果学习一下pine脚本语言还能白嫖一些付费功能  
-
-Tradingview不仅能看美股的盘，还能看外汇、加密和债券，有点太全了  
-
-## moomoo
-而看盘如果一定要客户端才够友好，那么就moomoo吧  
-
-它不像Tradingview一样可以对接别的券商，它本身就是个券商，所幸客户端做的不错，中文友好  
-
-[https://www.moomoo.com](https://www.moomoo.com/hans/)
-
-## 雅虎财经
-是不是印象中雅虎都已经凉了？其实不然，它盘子在日韩还有一些，所以还能给大家提供免费的数据  
-
-[https://finance.yahoo.com/](https://finance.yahoo.com/)
-
-它有其它财经工具拥有的正常功能，也不难用，但我最喜欢的是它的历史数据  
-
-![alt text](yahoo.png)
-
-提供如此详细的个股历史数据，还能免费下载的地方并不多，何况它其它功能做的也确实不错  
-
-## finviz
-如果要筛选股票的话，无论如何都离不开finviz
+## Finviz
+如果要选择美股而不是ETF的话，无论如何都离不开finviz
 
 [https://finviz.com](https://finviz.com)
 
@@ -79,17 +54,53 @@ Tradingview不仅能看美股的盘，还能看外汇、加密和债券，有点
 
 还有screener筛选器，能帮助快速找出想要的股票
 
-## roic.ai
+## 看盘画图
+技术面是个重要的方向，但并不是所有网站都能提供完整的数据和指标。  
+而数据这么贵，就是券商自带的功能都不是不够用就是要收费，还免费能用的就显得很难能可贵。  
+
+### Tradingview
+如果要看详细图标时，就要用到tradingview了，这是个非常好用的看图的软件，数据和功能都非常全面  
+
+[https://www.tradingview.com/](https://www.tradingview.com/)
+官网有中文，推荐用网页
+
+免费版近来功能一砍再砍，但也勉强够用，如果学习一下pine脚本语言还能白嫖一些付费功能  
+
+Tradingview不仅能看美股的盘，还能看外汇、加密和债券，有点太全了  
+
+### moomoo
+而看盘如果一定要客户端才够友好，那么就moomoo吧  
+
+它不像Tradingview一样可以对接别的券商，它本身就是个券商，所幸客户端做的不错，中文友好  
+
+[https://www.moomoo.com](https://www.moomoo.com/hans/)
+
+
+## 数据报表
+历史数据和财务指标对于一家公司来说就是基本面，无论如何炒股都离不开这些数据
+
+### 雅虎财经
+是不是印象中雅虎都已经凉了？其实不然，它盘子在日韩还有一些，所以还能给大家提供免费的数据  
+
+[https://finance.yahoo.com/](https://finance.yahoo.com/)
+
+它有其它财经工具拥有的正常功能，也不难用，勉强还能替代上面的两种用作画图工具，但我最喜欢的是它的**历史数据**  
+
+![alt text](yahoo.png)
+
+提供如此详细的个股历史数据，还能免费下载的地方并不多，何况它其它功能做的也确实不错  
+
+### roic.ai
 筛选了股票，看了股票的走势，当然要细致的分析它的财务状况，于是就需要这个并不是ai的ai网站
 
 [https://www.roic.ai](https://www.roic.ai)  
 
-它免费提供个股的30年的财务指标，它主要靠卖API盈利，所以免费的查询对于只有基本需求的投资者来说就非常友好
+免费提供个股的30年的财务指标和数据，它主要靠卖API盈利，所以免费的查询对于没有编程需求的投资者来说就非常友好
 
 ![alt text](roicai.png)
 
-## gurufocus
-类似的网站还有gurufocus，它的财务指标和计算公式都会列出来，非常清晰明了
+### Gurufocus
+类似的网站还有Gurufocus，它的财务指标和**计算公式**都会列出来，非常清晰明了
 
 [https://www.gurufocus.com](https://www.gurufocus.com) 
 
@@ -97,7 +108,10 @@ Tradingview不仅能看美股的盘，还能看外汇、加密和债券，有点
 
 但它收费，还是按国家收费，并不便宜，所以大多数时候它都只是补充或学习的地方
 
-## earning swhispers
+
+## 财报日历
+
+## Earning Swhispers
 美股的财报至关重要，所以盯住财报日也至关重要，那这个网站基本就可以pin在那里当日历  
 
 [https://www.earningswhispers.com](https://www.earningswhispers.com) 
@@ -108,14 +122,19 @@ Tradingview不仅能看美股的盘，还能看外汇、加密和债券，有点
 
 类似的网站还有[https://stockrow.com/](https://stockrow.com/)就不单独列了
 
-## Portfolio Visualizer
-之前提到过回测，这就是个用于回测的网站，门槛有点高
+
+## 回测工具
+回测在交易中的帮助很大，做量化的会自己写回测工具，但也有免费可以拿来用的  
+
+### Portfolio Visualizer
+这就是个用于回测的网站，功能有点多，因此用起来略有门槛  
 
 [https://www.portfoliovisualizer.com/](https://www.portfoliovisualizer.com/)
 
-它把不同资产的历史数据可视化，让人清晰地看出不同资产在历史上走势的差异，可以让人直观的感受不同资产在历史上回报率和风险的关系
+它把不同资产的历史数据可视化，让人清晰地看出不同资产在历史上走势的差异，可以让人直观的感受不同资产在历史上回报率和风险的关系  
 
 ![alt text](portfolio.png)
 
 注意：它的数据维度是月，要更细致的数据要别的工具
 
+## 消息工具

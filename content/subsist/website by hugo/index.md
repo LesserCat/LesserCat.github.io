@@ -31,9 +31,9 @@ git clone https://github.com/nunocoracao/blowfish.git themes/blowfish
 ```
 
 ## 配置Blowfish  
-首先是文档，是我在一众hugo主题里见过最齐全的文档了：[https://blowfish.page](https://blowfish.page)  
+之所以选了主题用Blowfish是因为文档，它有我在一众hugo主题里见过最齐全的文档了：[https://blowfish.page](https://blowfish.page)  
 
-这文档详细到我不知道要写啥，毕竟我没有自定义任何东西
+这文档详细到我不知道要写啥，一切照着做就好  
 
 ## 一些技巧
 ### tip1：  

@@ -1,6 +1,7 @@
 ---
 title: "发布环境"
 date: 2024-07-29T15:24:30+08:00
+lastmod: "2024-07-31T09:51:30+08:00"
 author: "Suika"
 draft: false
 description: ""
@@ -31,16 +32,21 @@ git push -u origin main
 在仓库的Actions里添加workflow
 Actions -> New workflow -> 搜索hugo -Configure -> Commit changes
 
-然后等待action完成即可访问username.github.io
+然后等待action完成即可访问[username.github.io](https://lessercat.github.io/)
 
-https://lessercat.github.io/
+**UPDATE:**
+此时虽然能访问，但在actions的任务里总有一个pages build and deployment的任务是失败，还失败的莫名其妙  
+
+需要去项目的设置里把部署方从Depoly from a branch式改成Github Actions，路径：  
+Settings -> Pages -> Build and deployment -> Github Actions
+
 
 ## CloudFlare
 我更喜欢Cloudflare Page,域名可以自由一点，就更容易了  
 
 创建一个新的PAGE与git关联，在Project Name那里添一个可用的喜欢的域名
 
-Framework preset选择hugo，就可以部署了，速度比Github Page快多了，后面扩展性也更好。
+Framework preset选择hugo，就可以部署了，速度比Github Page快多了，也不像github一样各处都被墙。
 
 ## Reference
 https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/

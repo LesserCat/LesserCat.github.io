@@ -77,6 +77,7 @@ smartTOCHideUnfocusedChildren = false
   showWordCount = true
   sharingLinks = false
   showZenMode = true
+  showComments = true
 
 [list]
   showHero = true
@@ -120,13 +121,13 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBPGFb0gwZVUnTCpYYKReWbeCYSiC9J9Bk"
+  authDomain = "lesserkumacat.firebaseapp.com"
+  projectId: "lesserkumacat",
+  storageBucket: "lesserkumacat.appspot.com",
+  messagingSenderId: "25614262596",
+  appId: "1:25614262596:web:df5fb9340acc7d2e75b711",
+  measurementId: "G-49W1QNG7ZT"
 
 [fathomAnalytics]
   # site = "ABC12345"
@@ -145,6 +146,6 @@ smartTOCHideUnfocusedChildren = false
 
 [verification]
   # google = ""
-  # bing = ""
+  bing = "0A7DB745614C0E9287286DF83DF2128B"
   # pinterest = ""
   # yandex = ""
