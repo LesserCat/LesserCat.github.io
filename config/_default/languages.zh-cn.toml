@@ -20,6 +20,7 @@ title = "小熊猫站起来"
   headline = "真的猛兽，以站立的姿态走行世间"
   bio = "真的猛兽，以站立的姿态走行世间"
   links = [
+    { github = "https://github.com/LesserCat/LesserCat.github.io" },
     { envelope = "mailto:suika@kadama.eu.org" },
     { telegram = "https://t.me/sanaesbot" },
     { rss = "/index.xml" },
