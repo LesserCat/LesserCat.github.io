@@ -1,11 +1,11 @@
 ---
 title: "美股工具常用工具"
-date: 2024-07-31T10:04:43+08:00
+date: 2024-08-01T15:05:33+08:00
 author: "Suika"
-draft: true
+draft: false
 description: ""
-tags: []
-categories: []
+tags: [美股]
+categories: [Finace]
 ---
 
 {{< lead >}}
@@ -161,20 +161,24 @@ Tradingview不仅能看美股的盘，还能看外汇、加密和债券，有点
 无论做什么都需要与时俱进，生成式AI已经普及了两年了，用做学习还是不错的，一些基础问题它可以讲的很详细，别离奇到听GPT的炒个股就好。
 
 免费的POE和perplexity都挺好用的，后者纯粹是名字太长，被埋没了  
-[https://poe.com](https://poe.com)
-[https://www.perplexity.ai](https://www.perplexity.ai)
+[https://poe.com](https://poe.com)  
+[https://www.perplexity.ai](https://www.perplexity.ai)  
 
 付费的也有，比如：
-[]()
+[https://www.marketsense-ai.com](https://www.marketsense-ai.com)  
 
-还有A股逗着玩的：
+[https://www.inciteai.com](https://www.inciteai.com)
+
+还有A股纯逗着玩的：
 [https://stockai.trade](https://stockai.trade)
 
-个人觉得玩一下算了，分析下财报还能用，真指望AI交易，现阶段普通人能做的靠谱的机器交易还是量化。  
+个人觉得玩一下算了，分析下财报还能用，真指望AI交易，现阶段普通人能做的靠谱的机器交易还是量化。 
+
+AI交易算不算简陋的量化有待商榷，但我觉得目前指望它不会比找个算命先生更靠谱。  
 
 此外，上面的网站大多是英文的，也许有语言障碍，但现阶段基本不存在了，[沉浸式翻译](https://immersivetranslate.substack.com/about)可以消除绝大部分文字性的障碍，包括youtube字幕。~~非要用APP？那您自求多福。~~
 
 ## End
-暂时想不起来了，还有些工具觉得不是普遍通用的，也就没往上列，再有合适的再补充吧。  
+暂时想不起别的了，还有些工具觉得不是普遍通用的，就没往上列，再有合适的再补充吧。  
 
-工具永远是辅助人的，人才是驾驭工具的主宰，所以工具可以帮人做决策，真正的决策需要人做出，工具现阶段还是替代不了人的，至少在交易上是这样。工具就是工具，选择合适的工具，永远不迷信于工具，借助工具获取最棒的收益！
+工具永远是辅助人的，人才是驾驭工具的主宰，所以工具可以帮人做决策，真正的决策需要人做出，工具现阶段还是替代不了人的，至少在交易上是这样。所以，工具就是工具，选择合适的工具，永远不迷信于工具，希望都能借助工具获取最棒的收益！

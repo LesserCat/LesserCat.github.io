@@ -1,6 +1,6 @@
 ---
 title: "使用Hugo和Blowfish"
-date: 2024-07-08T09:32:35+08:00
+date: 2024-07-08T10:32:35+08:00
 author: "Suika"
 draft: false
 description: ""
@@ -34,6 +34,10 @@ git clone https://github.com/nunocoracao/blowfish.git themes/blowfish
 之所以选了主题用Blowfish是因为文档，它有我在一众hugo主题里见过最齐全的文档了：[https://blowfish.page](https://blowfish.page)  
 
 这文档详细到我不知道要写啥，一切照着做就好  
+
+评论自己新建一个comments.html在layouts/partials下即可，hugo支持的都可以  
+
+而我用了[cusdis](https://cusdis.com/)虽然看官网好像随时要倒闭的样子，但比其它几个评论系统胜在不需要登陆，在Vercel上一键搭一个也不费事，文档也够用。    
 
 ## 一些技巧
 ### tip1：  

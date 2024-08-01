@@ -15,20 +15,6 @@ showAuthor: false
 小熊猫也有表达欲爆表的时候，但更多的时候是自言自语
 {{< /lead >}}
 
-<style>
-    .max-w-prose {
-        max-width: 100%;
-    }
-    .thumbnail {
-        min-width: 180px;
-    }
-    @media (min-width: 640px) {
-        .thumbnail {
-            min-width: 300px;
-        }
-    }
-</style>
-
 {{< timeline >}}
 
 

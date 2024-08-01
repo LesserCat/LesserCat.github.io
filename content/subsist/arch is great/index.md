@@ -108,6 +108,12 @@ p10k configure
 ```
 
 ## 其它
+有时候windows是绕不开的，那装个KVM的虚机吧。Vmware即使免费了还是不想用，歧视linux用户，unity模式仅在linux下不可用，那跟用kvm有什么区别？  
+
+KVM的虚机装了，那[winapps](https://github.com/Fmstrat/winapps)也不能少，这样四舍五入就unity了。~~全当自我安慰吧，不然还能咋~~  
+
+虚机就是应个急，日常是不会开的，就不详细记录过程了。 
+
 壁纸美化什么的看心情了，资源都很丰富，有些是习惯性的忘记了改了啥……  
 
 Anyway,就先这样吧
