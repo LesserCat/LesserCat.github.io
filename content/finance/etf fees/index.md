@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Etf Fees"
+date: 2024-08-05T10:30:02+08:00
 lastmod: “”
 author: "Suika"
 draft: true
@@ -11,6 +11,3 @@ categories: []
 # series_order: 1
 ---
 
-{{< lead >}}
-
-{{< /lead >}}
