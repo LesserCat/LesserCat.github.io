@@ -47,7 +47,7 @@ showTableOfContents: false
 
 本站使用 [Hugo](https://gohugo.io/) 构建
 
-相关代码和服务继承原项目的 License：
+相关代码和服务继承原项目的License：
 
 * Hugo： [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)
 * Theme(Blowfish)： [MIT License](https://github.com/nunocoracao/blowfish/blob/main/LICENSE)
@@ -56,9 +56,8 @@ showTableOfContents: false
 
 ### 侵权声明
 
-如果本站侵权，请联系管理员，本站管理员非常重视原创和开源精神，愿意积极配合删除。
+如果本站侵权，请联系管理员，本站管理员非常重视原创和开源精神，愿意积极配合处理  
 
 ## 联系方式
-
 * Email: [suika@kadama.eu.org](mailto:suika@kadama.eu.org)  
 所有问题请以邮件联系，一般会在一周内做出回复
