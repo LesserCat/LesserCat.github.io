@@ -1,0 +1,77 @@
+{{ $file := .Get "file" }}
+{{ $data := readFile $file | unmarshal }}
+<style>
+  .post-container {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .post {
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .post img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  .post-date {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(240, 240, 240, 0.7);
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 12px;
+    color: #666;
+  }
+
+  .post-text {
+    margin-top: 10px;
+    color: #333;
+    text-align: left;
+    font-size: 18px;
+  }
+</style>
+
+<div class="post-container">
+  {{ range $index, $element := $data }}
+    <div class="post">
+      {{ range $element.images }}
+        <img src="{{ .url }}" data-original-width="{{ .width }}" alt="Image {{ $index }}">
+      {{ end }}
+      <div class="post-text">{{ $element.text }}</div>
+      <div class="post-date">{{ dateFormat "2006-01-02 15:04" $element.date }}</div>
+    </div>
+  {{ end }}
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var images = document.querySelectorAll('.post img');
+  var containerWidth = document.querySelector('.post-container').offsetWidth;
+
+  images.forEach(function(img) {
+    var originalWidth = parseInt(img.getAttribute('data-original-width'));
+
+    if (originalWidth > containerWidth) {
+      img.style.width = (containerWidth * 2/3) + 'px';
+    } else {
+      img.style.width = (originalWidth / 2) + 'px';
+    }
+  });
+});
+</script>

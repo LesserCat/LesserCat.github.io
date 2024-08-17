@@ -1,0 +1,22 @@
+---
+showDate: false
+showDateUpdated: false
+showAuthor: false
+showEdit: false
+showComments: false
+sharingLinks: false
+showTableOfContents: false
+showZenMode: false
+---
+
+
+{{< typeit
+  tag=h1
+  lifeLike=true
+  breakLines=false
+  loop=true >}}
+
+凡事必有初  
+及其初而为之则易  
+无其端而发之则难
+{{< /typeit >}}

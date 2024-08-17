@@ -10,10 +10,16 @@ showComments: false
 sharingLinks: false
 showZenMode: false
 showAuthor: false
-layout: telegram
 ---
 {{< lead >}}
 小熊猫也有表达欲爆表的时候，但更多的时候是自言自语
 {{< /lead >}}
 
-{{< json file="data/posts.json" >}}
+{{< timeline >}}
+
+
+{{< timelineItem icon="heart-empty" header="Whirligig" badge="2024-07-06" >}}
+又配置了一个新的站点，希望能长久的写下去
+{{< /timelineItem >}}
+
+{{< /timeline >}}

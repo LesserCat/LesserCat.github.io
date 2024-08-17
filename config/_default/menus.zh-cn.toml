@@ -31,8 +31,8 @@
   weight = 40
 
 [[main]]
-  identifier = "telegram"
-  pre = "telegram channel"
+  identifier = "Channel"
+  pre = "telegram"
   url = "https://t.me/touhoumichong"
   weight = 50
 
