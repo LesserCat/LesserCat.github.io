@@ -16,4 +16,4 @@ layout: telegram
 小熊猫也有表达欲爆表的时候，但更多的时候是自言自语
 {{< /lead >}}
 
-{{< json file="data/posts.json" >}}
+{{< json file="data/tg/posts.json" >}}

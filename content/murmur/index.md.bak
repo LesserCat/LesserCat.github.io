@@ -17,9 +17,8 @@ showAuthor: false
 
 {{< timeline >}}
 
-
 {{< timelineItem icon="heart-empty" header="Whirligig" badge="2024-07-06" >}}
-又配置了一个新的站点，希望能长久的写下去
+又配置了一个新的站点，希望能长久的写下去,又配置了一个新的站点，希望能长久的写下去,又配置了一个新的站点，希望能长久的写下去
 {{< /timelineItem >}}
 
 {{< /timeline >}}

@@ -20,23 +20,10 @@ html {
   background-position:center;
 }
 
+.text-white {
+  color: white;
+}
+
 td {
   vertical-align: middle !important;
-}
-
-.tg-posts {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.tg-post {
-  margin-bottom: 2em;
-  padding: 1em;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-}
-
-.tg-post img {
-  max-width: 100%;
-  height: auto;
 }
