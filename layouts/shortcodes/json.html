@@ -1,7 +1,7 @@
 {{ $file := .Get "file" }}
 {{ $data := getJSON $file }}
 
-<ol class="border-l-2 border-primary-500 dark:border-primary-300 list-none" style="width: 150%;">
+<ol class="border-l-2 border-primary-500 dark:border-primary-300 list-none">
   {{ range $data }}
     <li>
       <div class="flex flex-start">
