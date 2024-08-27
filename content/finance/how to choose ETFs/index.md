@@ -107,6 +107,5 @@ ETF 是通过投资一揽子标的物来追踪指数的，如果它的规模小�
 当然，如果什么都不想看，就是要把懒人投资贯彻到底，那请至少关注一下ETF的规模和费率。  
 
 ## Refers
-[跟踪误差](https://wiki.mbalib.com/wiki/跟踪误差)
-[CHOOSING THE RIGHT ETF](https://www.blackrock.com/americas-offshore/en/education/etf/choosing-the-right-etf)
+[CHOOSING THE RIGHT ETF](https://www.blackrock.com/americas-offshore/en/education/etf/choosing-the-right-etf)  
 [Tracking Difference and Tracking Error](https://www.morningstar.com/business/insights/blog/funds/etf-tracking-difference-error?elqcampaignid=1616#what-contributes-to-etf-tracking-difference-and-tracking-error)
