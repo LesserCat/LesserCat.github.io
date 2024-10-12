@@ -1,7 +1,7 @@
 ---
 title: "Vector"
 date: 2024-08-12T13:24:18+08:00
-lastmod: “”
+# lastmod: 
 author: "Suika"
 draft: true
 description: ""

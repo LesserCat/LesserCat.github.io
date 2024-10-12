@@ -1,7 +1,7 @@
 ---
 title: "投资ETF之前"
 date: 2024-08-27T11:51:57+08:00
-lastmod: “”
+# lastmod: 
 author: "Suika"
 draft: false
 description: ""

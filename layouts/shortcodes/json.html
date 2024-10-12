@@ -1,5 +1,6 @@
 {{ $file := .Get "file" }}
-{{ $data := getJSON $file }}
+{{ $jsonContent := readFile $file }}
+{{ $data := $jsonContent | unmarshal }}
 
 <ol class="border-l-2 border-primary-500 dark:border-primary-300 list-none">
   {{ range $data }}

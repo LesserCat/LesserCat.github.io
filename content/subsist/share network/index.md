@@ -1,7 +1,7 @@
 ---
 title: "共享wifi热点"
 date: 2024-08-28T10:28:28+08:00
-lastmod: “”
+lastmod: 2024-10-11T14:28:28+08:00
 author: "Suika"
 draft: false
 description: ""
@@ -41,6 +41,13 @@ firewall-cmd --zone=nm-shared --add-interface=ap0
 firewall-cmd --zone=nm-shared --add-interface=ap0 --permanent
 ```
 zone 什么的按自己的情况调整
+
+## 开机启动
+如果要开机启动，只需要执行：
+```
+systemctl enable create_ap
+```
+反之亦然
 
 {{< alert icon="fire" >}}
 果然，没有什么是linux做不到的！

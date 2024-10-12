@@ -1,7 +1,7 @@
 ---
 title: "The Fund"
 date: 2024-08-17T17:26:56+08:00
-lastmod: “”
+#lastmod: ""
 author: "Suika"
 draft: false
 description: ""
