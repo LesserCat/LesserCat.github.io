@@ -2,16 +2,17 @@
 # These settings are required for the theme to function.
 
 [goldmark]
-[goldmark.renderer]
-  unsafe = true
+  [goldmark.renderer]
+    unsafe = true
+
+  [goldmark.extensions]
+    [goldmark.extensions.passthrough]
+      enable = true
+      [goldmark.extensions.passthrough.delimiters]
+        block = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)']]
 
 [highlight]
-  codeFences = true
-  guessSyntax = true
-  lineNos = false
-  lineNumbersInTable = true
-  lineNoStart = 1
-  tabWidth = 2
   noClasses = false
 
 [tableOfContents]

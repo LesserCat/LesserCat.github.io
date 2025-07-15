@@ -9,13 +9,13 @@ title = "小熊猫站起来"
   rtl = false
   dateFormat = "2006-01-02"
   logo = "img/logo.png"
-  description = "小熊猫夹在橐龠里, record computer, finance, and philosophy"
-  copyright = "© { year } <span class='inline-block'> 吃芒果的小熊猫 </span> All Rights Reserved</span>."
+  description = "Record computer, finance, and philosophy"
+  copyright = "© { year } <span class='inline-block'> Lesser Bear-Cat </span> All Rights Reserved</span>."
 
 [author]
   name = "Suika"
   image = "img/bear-cat-logo.png"
-  headline = "真的猛兽，以站立的姿态走行世间"
+  headline = "真正的猛兽，以站立的姿态走行世间"
   bio = "反者道之动"
   links = [
     { github = "https://github.com/LesserCat/LesserCat.github.io" },
