@@ -40,7 +40,8 @@
     "templates/Update Modified Date.md",
     "templates/Create finance content.md",
     "templates/Create subsist content.md",
-    "templates/Create thoughts content.md"
+    "templates/Create thoughts content.md",
+    "templates/Publish.md"
   ],
   "startup_templates": [
     ""

@@ -5,8 +5,8 @@ date: 2024-10-12T15:03:27+08:00
 author: "Suika"
 draft: false
 description: ""
-tags: [ ]
-categories: [ ]
+tags: [ Linux]
+categories: [TECH]
 # series: [ "" ]
 # series_order:
 ---
