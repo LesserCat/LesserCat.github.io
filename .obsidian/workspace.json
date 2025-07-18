@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "c63721e2c2116850",
+    "type": "split",
+    "children": [
+      {
+        "id": "36f9664e91ec5f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0869f7dfe56e0a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Create thoughts content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create thoughts content"
+            }
+          },
+          {
+            "id": "60281a4c4ddecc85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Create finance content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create finance content"
+            }
+          },
+          {
+            "id": "a17dd77ef64a49b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/thoughts/add/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50f9dd400c54a99f",
+    "type": "split",
+    "children": [
+      {
+        "id": "93cd70fd372b0e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f5490bf3f5498d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ea12fcd3578f83e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "019b2503d8c2fa6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dae0d62709e7094",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f05294f4d92201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6218ed3e56399702",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/thoughts/add/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "4f957a8dfcdfd06e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "a17dd77ef64a49b1",
+  "lastOpenFiles": [
+    "content/subsist/Untitled.md",
+    "content/thoughts/add",
+    "content/thoughts/add/index.md",
+    "templates/Create finance content.md",
+    "content/subsist/abc/index.md",
+    "content/finance/ddddd/index.md",
+    "content/subsist/abc",
+    "content/finance/ddddd",
+    "content/thoughts/abc/index.md",
+    "content/thoughts/abc",
+    "templates/Create thoughts content.md",
+    "content/thoughts/abc.md",
+    "content/thoughts/resist/index.md",
+    "content/thoughts/psychology is just a means of control/index.md",
+    "templates/Create subsist content.md",
+    "content/subsist/push web/index.md",
+    "content/subsist/share network/index.md",
+    "content/subsist/vector/index.md",
+    "content/subsist/website by hugo/index.md",
+    "content/subsist/about notes/featured.jpeg",
+    "content/subsist/about notes/index.md",
+    "content/finance/buy cion/index.md",
+    "content/finance/buy cion",
+    "content/finance/how to choose ETFs/index.md",
+    "content/finance/buy/index.md",
+    "content/finance/buy",
+    "content/finance/buy cion /index.md",
+    "content/finance/buy cion ",
+    "content/finance/etf introduction/index.md",
+    "templates/Update Modified Date.md",
+    "templates"
+  ]
+}
